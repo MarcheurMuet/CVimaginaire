@@ -111,13 +111,13 @@ footer {
     0%{transform: rotate(182deg);}
     0%{top: 2vh; left: 18vh;};
 
-    25%{top: 2vh; left: 168vh};
+    25%{top: 2vh; left: 164vh};
     25%{transform: rotate(273deg)};
 
-    50%{top: 76vh; left: 168vh};
+    50%{top: 74vh; left: 164vh};
     50%{transform: rotate(365deg)};
 
-    75%{top: 76vh; left: 18vh};
+    75%{top: 74vh; left: 18vh};
     75%{transform: rotate(453deg)};
 
     100%{top: 2vh; left: 18vh};
